@@ -1,0 +1,11 @@
+C:\Users\Глеб\Desktop\КОДЫЫЫЫ\Плеер\Плеер\obj\Debug\Плеер.csproj.AssemblyReference.cache
+C:\Users\Глеб\Desktop\КОДЫЫЫЫ\Плеер\Плеер\obj\Debug\Плеер.csproj.SuggestedBindingRedirects.cache
+C:\Users\Глеб\Desktop\КОДЫЫЫЫ\Плеер\Плеер\obj\Debug\MainWindow.g.cs
+C:\Users\Глеб\Desktop\КОДЫЫЫЫ\Плеер\Плеер\obj\Debug\App.g.cs
+C:\Users\Глеб\Desktop\КОДЫЫЫЫ\Плеер\Плеер\obj\Debug\Плеер_MarkupCompile.cache
+C:\Users\Глеб\Desktop\КОДЫЫЫЫ\Плеер\Плеер\obj\Debug\Плеер_MarkupCompile.lref
+C:\Users\Глеб\Desktop\КОДЫЫЫЫ\Плеер\Плеер\obj\Debug\MainWindow.baml
+C:\Users\Глеб\Desktop\КОДЫЫЫЫ\Плеер\Плеер\obj\Debug\Плеер.g.resources
+C:\Users\Глеб\Desktop\КОДЫЫЫЫ\Плеер\Плеер\obj\Debug\Плеер.Properties.Resources.resources
+C:\Users\Глеб\Desktop\КОДЫЫЫЫ\Плеер\Плеер\obj\Debug\Плеер.csproj.GenerateResource.cache
+C:\Users\Глеб\Desktop\КОДЫЫЫЫ\Плеер\Плеер\obj\Debug\Плеер.csproj.CoreCompileInputs.cache

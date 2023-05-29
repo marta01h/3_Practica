@@ -1,0 +1,28 @@
+﻿<Window x:Class="WpfApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Audio Player" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Button Content="Выбрать папку" Click="SelectFolderButton_Click" HorizontalAlignment="Center" Margin="10"/>
+
+        <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Center" Margin="10">
+            <Button x:Name="previousButton" Content="Назад" Click="PreviousButton_Click"/>
+            <Button x:Name="playButton" Content="Играть" Click="PlayButton_Click" Margin="10 0"/>
+            <Button x:Name="nextButton" Content="Вперед" Click="NextButton_Click"/>
+            <Button x:Name="repeatButton" Content="Повторение выкл." Click="RepeatButton_Click" Margin="10 0"/>
+            <Button x:Name="shuffleButton" Content="Не попорядку выкл." Click="ShuffleButton_Click" Margin="10 0"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="2" Orientation="Vertical" HorizontalAlignment="Center" Margin="10">
+            <Label x:Name="currentPositionLabel" Content="00:00 / 00:00" Visibility="Hidden"/>
+            <Slider x:Name="positionSlider" Minimum="0" Maximum="100" ValueChanged="PositionSlider_ValueChanged" Visibility="Hidden"/>
+        </StackPanel>
+    </Grid>
+</Window>
